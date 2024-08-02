@@ -86,10 +86,6 @@ export default function Nav() {
                             {navList}
                         </div>
                         <div>
-                            {/* <AiOutlineSearch size={20} color={mode === 'dark' ? 'white' : 'black'} /> */}
-                             <SearchDialog/>
-                        </div>
-                        <div>
                             {admin?<Link to={'/dashboard'}>
                                 <div className="">
                                     <Avatar
