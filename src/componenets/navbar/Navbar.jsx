@@ -9,7 +9,6 @@ import {
 import { Link } from "react-router-dom";
 import { AiOutlineSearch } from 'react-icons/ai';
 import myContext from "../../context/data/myContext";
-import SearchDialog from "../searchDiallog/SearchDialog";
 
 export default function Nav() {
     const [openNav, setOpenNav] = React.useState(false);
