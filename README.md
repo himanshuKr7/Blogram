@@ -74,4 +74,4 @@ Feel free to submit issues or pull requests if you have any improvements or fixe
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Made With 	&hearts; by Himnashu :)
+Made With 	&hearts; by Himanshu :)
